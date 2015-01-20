@@ -19,7 +19,7 @@ Crossover Probability = 0.8
 Mutation Probability = 0.5
 
 
-
+NOTE: Take one of the data files which is located in the same directory here and add it to code's argument.
 
 References:
 [1] Kosaraju’s algorithms to find SCC in DAG
